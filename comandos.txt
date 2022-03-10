@@ -1,1 +1,4 @@
 git init:comienza a rastrear los cambios de los archivos
+git commit -m:
+
+git add : agregar al staging area
