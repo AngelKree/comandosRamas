@@ -1,0 +1,1 @@
+git init:comienza a rastrear los cambios de los archivos
